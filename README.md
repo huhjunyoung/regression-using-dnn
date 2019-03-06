@@ -1,7 +1,7 @@
-# regression-using-dnn
+# Regression Using DNN
 Multi-dimensional regression using DNN(inputs: (x,y,z), outputs:(x,y))
 
-* Keyword
+* Keywords
   - Python
   - Tensorflow
   - Multi-dimensional regression
