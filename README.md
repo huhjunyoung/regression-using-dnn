@@ -1,5 +1,5 @@
 # Multi-dimensional Regression Using DNN
-Multi-dimensional regression using DNN(inputs: (x,y,z), outputs:(x,y))
+inputs:(x,y,z) ==> regression ==> outputs:(x,y)
 
 * Keywords
   - Python
