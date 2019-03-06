@@ -1,4 +1,4 @@
-# Regression Using DNN
+# Multi-dimensional Regression Using DNN
 Multi-dimensional regression using DNN(inputs: (x,y,z), outputs:(x,y))
 
 * Keywords
