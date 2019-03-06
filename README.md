@@ -13,4 +13,4 @@ Multi-dimensional regression using DNN(inputs: (x,y,z), outputs:(x,y))
   - Check the data in each plot
   - Consist the multi-dimensional regression network
   - Train
-  - Get the specific value through the network
+  - Get the regression result value(x, y) through the network with input value(x, y, z) 
