@@ -2,7 +2,11 @@
 Multi-dimensional regression using DNN(inputs: (x,y,z), outputs:(x,y))
 
 * Keyword
-#Python/Tensorflow/Multi-dimensional regression/DNN/MC-dropout
+  - Python
+  - Tensorflow
+  - Multi-dimensional regression
+  - DNN
+  - MC-dropout
 
 * Procedure of the code
   - Get the train/test data using numpy.random.normal
