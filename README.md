@@ -1,5 +1,5 @@
 # Multi-dimensional Regression Using DNN
-inputs:(x,y,z) ==> regression ==> outputs:(x,y)
+inputs:(i1, i2, i3) ==> regression ==> outputs:(x, y)
 
 * Keywords
   - Python
@@ -13,4 +13,4 @@ inputs:(x,y,z) ==> regression ==> outputs:(x,y)
   - Check the data in each plot
   - Consist the multi-dimensional regression network
   - Train
-  - Get the regression result value(x, y) through the network with input value(x, y, z) 
+  - Get the regression result value(x, y) through the network with input value(i1, i2, i3) 
